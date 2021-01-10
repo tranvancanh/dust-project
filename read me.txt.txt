@@ -1,0 +1,11 @@
+----------------------------- Dust project -----------------------------
+----------------------------- last version -----------------------------
+---------------------- date 07/04/17 -----------------------------------
+------------------------------------------------------------------------
+-------------------- performer ------------------------------------
+
+-  ardunio-1.6.3_libraries: libraries for ardunio mega 2560
+-  dust_oversample         : example oversample ADC from 10bit - 16bit
+-  Dust_Project            : main and program of project (dust_project)
+-  picture                 : product pictures after finished
+-  manual                  : ban huong dan su dung chi tiet + so do dau noi chan
